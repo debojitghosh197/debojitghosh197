@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debojitghosh197
+- 👋 Hi, I’m DEBOJIT
 - 👀 I’m interested in Data science and web development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on WEB PROJECTS
