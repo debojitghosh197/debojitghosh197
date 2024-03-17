@@ -1,8 +1,8 @@
 - 👋 Hi, I’m DEBOJIT
 - 👀 I’m interested in Data science and web development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on WEB PROJECTS
-- 📫 How to reach me ...
+- 🌱 I’m currently learning DSA and full stack development
+- 💞️ I’m looking to collaborate on WEB PROJECTS, PYTHON PROJECTS and JAVA PROJECTS
+- 📫 How to reach me - EMAIL - debojitghosh197@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
